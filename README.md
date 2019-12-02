@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ## Engenharia Biomédica UMinho
 
 
