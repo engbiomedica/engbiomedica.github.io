@@ -1,5 +1,20 @@
 ## Engenharia Biomédica UMinho
 
+### Ajuda
+
+Fizemos isto, mas agora não sabemos editar. Bora para o weebly
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/engbiomedica/engbiomedica.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
